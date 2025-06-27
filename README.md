@@ -1,2 +1,3 @@
-# claims-litigation-prediction
-AI/ML-based early litigation prediction &amp; intervention framework for Workers’ Compensation claims
+# Claims Litigation Prediction Project
+
+This project uses AI/ML to predict litigation risk early in workers compensation claims.
